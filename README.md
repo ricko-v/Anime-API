@@ -1,9 +1,9 @@
 # Restapi Anime
 Restapi yang berisi tentang anime
-* [Website Dokumentasi](https://twindev.herokuapp.com/)
+
 ## Daftar Api
-* Anime
-* Anime Movie
+* [Anime](https://twindev.herokuapp.com/doc/anime)
+* [Anime Movie](https://twindev.herokuapp.com/doc/anmov)
 
 
 
